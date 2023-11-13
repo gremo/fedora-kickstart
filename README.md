@@ -5,6 +5,7 @@ A collection of Anaconda kickstart files for Fedora.
 Available kickstart files:
 
 - [`38/gnome-minimal.ks`](38/gnome-minimal.ks)
+- [`39/gnome-minimal.ks`](39/gnome-minimal.ks)
 
 ## 🚀 Quick start
 
@@ -12,7 +13,7 @@ Available kickstart files:
 2. Boot the ISO and stop at Grub screen
 3. Highlight "Install Fedora", press <kbd>e</kbd> and append:
   ```text
-  inst.ks=https://raw.githubusercontent.com/gremo/fedora-kickstart/main/38/gnome-minimal.ks
+  inst.ks=https://raw.githubusercontent.com/gremo/fedora-kickstart/main/39/gnome-minimal.ks
   ```
 4. Presso <kbd>F10</kbd> to start the installation unsing the kickstart file
 
