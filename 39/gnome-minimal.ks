@@ -24,6 +24,7 @@ gnome-tweaks
 gnome-user-share
 nautilus
 plymouth-system-theme
+yelp
 %end
 
 %post

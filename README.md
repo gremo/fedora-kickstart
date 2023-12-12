@@ -35,6 +35,7 @@ Available kickstart files:
 - [Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks)
 - [Software](https://apps.gnome.org/Software/)
 - [System Monitor](https://apps.gnome.org/GnomeSystemMonitor/)
+- [Help](https://apps.gnome.org/Yelp/)
 
 ### Flatpak apps
 
