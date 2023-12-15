@@ -25,6 +25,8 @@ gnome-user-share
 nautilus
 plymouth-system-theme
 yelp
+zip                                    # zip and unzip are required by the ExtensionsManager
+unzip                                  # otherwise installation of Extensions won't work
 %end
 
 %post
